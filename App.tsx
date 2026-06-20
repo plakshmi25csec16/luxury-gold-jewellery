@@ -1,11 +1,11 @@
-import { Navbar } from "./Navbar";
-import { Hero } from "@/components/site/Hero";
-import { Categories } from "@/components/site/Categories";
-import { Products } from "@/components/site/Products";
-import { OfferBanner } from "@/components/site/OfferBanner";
-import { Reviews } from "@/components/site/Reviews";
-import { Brands } from "@/components/site/Brands";
-import { Footer } from "@/components/site/Footer";
+import  Navbar  from "./Navbar";
+import  Hero from "./Hero";
+import  Categories from "./Categories";
+import  Products from "./Products";
+import OfferBanner from "./OfferBanner";
+import  Reviews from "./Reviews";
+import  Brands  from "./Brands";
+import  Footer  from "./Footer";
 
 export default function App() {
   return (
